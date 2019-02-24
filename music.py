@@ -1,3 +1,4 @@
+#!/usr/bin/evn python
 import discord
 import asyncio
 import youtube_dl
